@@ -122,6 +122,5 @@ export const finesAndPenaltiesParagraphs = [
   `An individual could spend up to 10 years in prison and be fined for accessing child pornography on land that the Federal Government owns He could also get 10 years and a fine if he intentionally accesses or possesses child pornography through an out- of- state distributor.`,
 
   `More so, if the minor is less than 12 years old, the prison term increases to 20 years. If this was a second child pornography conviction, 10-20 years in prison is the punishment`,
-
   `As per the judgement passed by the honourable Cheif Justice Mr John Roberts,any victim which has been identified in the illicit images are eligible to get a compensation amount of 5000$.Since Jan 2021,there has been over 1,23,000 victims who has been benefitted from this judgement.This judgement was made considering various factors such as medical consultation and pills that used to cost over few thousand dollars.For all of these statutes, a child is considered to be anyone under the age of 18`,
 ];
