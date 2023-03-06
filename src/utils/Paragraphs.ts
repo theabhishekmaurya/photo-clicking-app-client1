@@ -70,35 +70,38 @@ export const finesAndPenaltiesParagraphs = [
   `In Nebraska, it is illegal to make a video or photo involving a child that has sexual conduct in it. This includes a child either participating in it or as a portrayed observer in it.`,
 
   `Making the video or photo includes creating the image or video, directing the video or image, or even providing the video or image that is considered child pornography.`,
-
+  ``,
   `There are a variety of ways to be accused of child pornography:`,
 
-  `It is illegal to participate in the child pornography market in any way.
-People who get a child to participate in a sexually explicit visual image in any way are guilty of child pornography.
-The guardian of the child can be guilty of child pornography if he knew about the sexually explicit visual images that the child was subjected to and consented to them.`,
+  `It is illegal to participate in the child pornography market in any way.`,
+  `People who get a child to participate in a sexually explicit visual image in any way are guilty of child pornography.`,
+  `The guardian of the child can be guilty of child pornography if he knew about the sexually explicit visual images that the child was subjected to and consented to them.`,
+  ``,
   `A conviction is a serious felony:`,
 
-  `People aged 19 and under who violated these laws are guilty of a Class III felony for each offense.
-People who are 19 or older who violated any of the rules will receive a Class ID felony for each offense.
-For those already convicted of child pornography, sexual assault, or various other statutes, then a second conviction will be a Class IC felony.
-Possession Of Child Pornography`,
+  `People aged 19 and under who violated these laws are guilty of a Class III felony for each offense.`,
+  `People who are 19 or older who violated any of the rules will receive a Class ID felony for each offense.`,
+  `For those already convicted of child pornography, sexual assault, or various other statutes, then a second conviction will be a Class IC felony.`,
+  ``,
+  `Possession Of Child Pornography`,
 
   `Individuals caught possessing child pornography and want to put it on the market for sale, rent, or trade, or intend to distribute the material, could be guilty of child pornography.`,
-
+  ``,
   `Felony For Possession`,
 
-  `Individuals under 19 who are convicted of possessing child pornography are guilty of a Class IIIA felony for their first offense.
-If they are over 19 and are guilty of child pornography possession, then they are guilty of a Class III felony for their first offense.
-If they have previously been found guilty of a select list of charges, including sexual assault, then they are guilty of a Class IC felony.
-Punishments
-`,
+  `Individuals under 19 who are convicted of possessing child pornography are guilty of a Class IIIA felony for their first offense.`,
+  `If they are over 19 and are guilty of child pornography possession, then they are guilty of a Class III felony for their first offense.`,
+  `If they have previously been found guilty of a select list of charges, including sexual assault, then they are guilty of a Class IC felony.`,
+  `Punishments`,
+  ``,
   `Each felony comes with different imprisonment terms and fines:`,
 
-  `A Class IIIA felony conviction does not have a minimum time in prison or fine, and the maximum penalty is five years in prison and/or a $25,000 fine.
-A Class III felony comes with at least one year in prison. The maximum penalty for a Class III felony is 20 years in prison and/or a $50,000 fine.
-A Class ID felony conviction comes with a mandatory minimum of three years in prison and has a maximum of 50 years in prison.
-A Class IC felony comes with a minimum of five years in prison and a maximum of fifty years in prison.
-Federal Charges`,
+  `A Class IIIA felony conviction does not have a minimum time in prison or fine, and the maximum penalty is five years in prison and/or a $25,000 fine.`,
+  `A Class III felony comes with at least one year in prison. The maximum penalty for a Class III felony is 20 years in prison and/or a $50,000 fine.`,
+  `A Class ID felony conviction comes with a mandatory minimum of three years in prison and has a maximum of 50 years in prison.`,
+  `A Class IC felony comes with a minimum of five years in prison and a maximum of fifty years in prison.`,
+  ``,
+  `Federal Charges`,
 
   `Federal charges for child pornography will be brought for a variety of reasons.`,
 

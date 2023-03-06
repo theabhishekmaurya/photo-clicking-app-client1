@@ -82,7 +82,7 @@ const ImageCard = (props: {
             >
               {/* {date} */}
               {/* Write whatever you want under the image*/}
-              Remove
+              Updated
             </Box>
             <Tooltip
               label="Delete"
