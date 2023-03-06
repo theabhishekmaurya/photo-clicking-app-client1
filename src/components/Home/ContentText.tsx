@@ -11,7 +11,6 @@ import {
   SpaceProps,
   useColorModeValue,
   Container,
-  VStack,
 } from "@chakra-ui/react";
 import child from "../../assets/child.jpeg";
 import report from "../../assets/report.jpeg";
@@ -125,7 +124,7 @@ const ContentText = () => {
             digital or computer generated images indistinguishable from an
             actual minor......
           </Text>
-          <BlogAuthor name="Shubham" date={new Date("2023-02-21T19:01:27Z")} />
+          <BlogAuthor name="John Doe" date={new Date("2023-02-21T19:01:27Z")} />
         </Box>
       </Box>
       <Divider marginTop="5" />

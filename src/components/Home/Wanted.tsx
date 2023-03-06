@@ -40,7 +40,7 @@ export default function Wanted() {
               Criminals
             </Text>{" "}
           </Heading>
-          <Text fontSize={{ base: "md", lg: "lg" }} color={"gray.500"}>
+          {/* <Text fontSize={{ base: "md", lg: "lg" }} color={"gray.500"}>
             Most wanted list for crime against children
           </Text>
           <Stack direction={{ base: "column", md: "row" }} spacing={4}>
@@ -55,7 +55,7 @@ export default function Wanted() {
               Verify yourself
             </Button>
             <Button rounded={"full"}>Check verified list</Button>
-          </Stack>
+          </Stack> */}
         </Stack>
       </Flex>
       <Flex flex={1}>

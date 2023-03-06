@@ -4,7 +4,6 @@ import {
   Circle,
   Box,
   Image,
-  Badge,
   useColorModeValue,
   Icon,
   chakra,
@@ -13,7 +12,6 @@ import {
   Heading,
   Text,
 } from "@chakra-ui/react";
-import { useEffect } from "react";
 import { MdDeleteOutline } from "react-icons/md";
 
 const ImageCard = (props: {
@@ -43,7 +41,6 @@ const ImageCard = (props: {
     persons.splice(index, 1);
     props.handleSetImageList(persons);
   };
-  useEffect(() => {}, [handleDelete]);
 
   return (
     <Flex alignItems="center" justifyContent="center">
@@ -68,13 +65,13 @@ const ImageCard = (props: {
         <Image src={props.image} alt={`Picture of ${date}`} roundedTop="lg" />
 
         <Box p="6">
-          <Box display="flex" alignItems="baseline">
+          {/* <Box display="flex" alignItems="baseline">
             {data.isNew && (
               <Badge rounded="full" px="2" fontSize="0.8em" colorScheme="red">
                 Verified at
               </Badge>
             )}
-          </Box>
+          </Box> */}
           <Flex mt="1" justifyContent="space-between" alignContent="center">
             <Box
               fontSize="xl"
@@ -83,7 +80,9 @@ const ImageCard = (props: {
               lineHeight="tight"
               isTruncated
             >
-              {date}
+              {/* {date} */}
+              {/* Write whatever you want under the image*/}
+              Remove
             </Box>
             <Tooltip
               label="Delete"
@@ -114,10 +113,6 @@ const ImagesGallery = (props: {
   imageList: { image: string; date: number }[];
   handleSetImageList: Function;
 }) => {
-  let persons: string[] = JSON.parse(
-    localStorage.getItem("verified-persons") || JSON.stringify([])
-  );
-
   return (
     <Stack mt={4}>
       <Heading
@@ -126,7 +121,7 @@ const ImagesGallery = (props: {
         fontWeight={600}
         fontSize={{ base: "2xl", sm: "3xl", lg: "4xl" }}
       >
-        Verified List
+        Name on the Watch List
       </Heading>
       <Flex
         gap={2}

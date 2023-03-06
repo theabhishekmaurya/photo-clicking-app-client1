@@ -7,6 +7,7 @@ const FinesPenalties = () => {
     <Blog
       heading="CITIZEN’S GUIDE TO U.S. FEDERAL LAW ON THE EXTRATERRITORIAL SEXUAL EXPLOITATION OF CHILDREN"
       paragraphs={finesAndPenaltiesParagraphs}
+      top={4}
     />
   );
 };

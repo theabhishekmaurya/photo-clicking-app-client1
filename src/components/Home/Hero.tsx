@@ -13,7 +13,7 @@ export default function Hero() {
       w={"full"}
       h={"50vh"}
       backgroundImage={
-        "url(https://media.istockphoto.com/id/532252564/photo/policeman-using-laptop-in-office.jpg?s=612x612&w=0&k=20&c=UJuO-ljTgA8f9xbFgztnyZxhU2HFcvjyEzSybRdWAnM=)"
+        "url(https://res.cloudinary.com/grand-canyon-university/image/fetch/w_750,h_564,c_fill,g_faces,q_auto/https://www.gcu.edu/sites/default/files/media/images/Blog/Criminal-justice/FBI_Agent.jpg)"
         // nav
       }
       backgroundSize={"cover"}

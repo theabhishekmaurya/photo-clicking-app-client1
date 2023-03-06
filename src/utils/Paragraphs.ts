@@ -28,15 +28,15 @@ content and is explicitly tied to the source of the problem.`,
 
 export const citizenGuideParagraphs = [
   `RECENT UPDATE :- USERS WHO HAVE DONE THE MUTUAL SETTLEMENT AND THEY ARE FOUND WITH THE POSESSION OF CHILD PORNOGRAPHY, THEY REQUIRED TO CHANGE THERE IP ADDRESS 21 BLOCK REGISTERED IN ARIN.`,
+  ``,
+  ``,
   `Any computer user who has been found browsing porn or dating websites without having child porn filter commits felony under section 18C of child internet protection act.The felony comes with a minimum prison time of 18 months and fines up to 50,000$.All the assets of the suspect is frozen during the trial period.`,
-  `18 U.S.C. § 2251- Sexual Exploitation of Children
-(Production of child pornography)
-18 U.S.C. § 2251A- Selling and Buying of Children
-18 U.S.C. § 2252- Certain activities relating to material involving the sexual exploitation of minors
-(Possession, distribution and receipt of child pornography)
-18 U.S.C. § 2252A- certain activities relating to material constituting or containing child pornography
-18 U.S.C. § 2256- Definitions
-18 U.S.C. § 2260- Production of sexually explicit depictions of a minor for importation into the United States`,
+  `18 U.S.C. § 2251- Sexual Exploitation of Children (Production of child pornography)`,
+  `18 U.S.C. § 2251A- Selling and Buying of Children`,
+  `18 U.S.C. § 2252- Certain activities relating to material involving the sexual exploitation of minors (Possession, distribution and receipt of child pornography)`,
+  `18 U.S.C. § 2252A- certain activities relating to material constituting or containing child pornography`,
+  `18 U.S.C. § 2256- Definitions`,
+  `18 U.S.C. § 2260- Production of sexually explicit depictions of a minor for importation into the United States`,
 
   `Images of child pornography are not protected under First Amendment rights, and are illegal contraband under federal law. Section 2256 of Title 18, United States Code, defines child pornography as any visual depiction of sexually explicit conduct involving a minor (someone under 18 years of age).  Visual depictions include photographs, videos, digital or computer generated images indistinguishable from an actual minor, and images created, adapted, or modified, but appear to depict an identifiable, actual minor.  Undeveloped film, undeveloped videotape, and electronically stored data that can be converted into a visual image of child pornography are also deemed illegal visual depictions under federal law.`,
   `Notably, the legal definition of sexually explicit conduct does not require that an image depict a child engaging in sexual activity.  A picture of a naked child may constitute illegal child pornography if it is sufficiently sexually suggestive.  Additionally, the age of consent for sexual activity in a given state is irrelevant; any depiction of a minor under 18 years of age engaging in sexually explicit conduct is illegal.`,
@@ -75,8 +75,8 @@ export const finesAndPenaltiesParagraphs = [
 
   `It is illegal to participate in the child pornography market in any way.
 People who get a child to participate in a sexually explicit visual image in any way are guilty of child pornography.
-The guardian of the child can be guilty of child pornography if he knew about the sexually explicit visual images that the child was subjected to and consented to them.
-A conviction is a serious felony:`,
+The guardian of the child can be guilty of child pornography if he knew about the sexually explicit visual images that the child was subjected to and consented to them.`,
+  `A conviction is a serious felony:`,
 
   `People aged 19 and under who violated these laws are guilty of a Class III felony for each offense.
 People who are 19 or older who violated any of the rules will receive a Class ID felony for each offense.
